@@ -1,0 +1,7 @@
+
+number block, turn, 
+
+
+13 White Block (0-11) + Jocker
+13 Black Block (0-11) + Jocker
+
